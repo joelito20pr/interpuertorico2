@@ -257,9 +257,8 @@ export default function Home() {
               <Image src="/images/logo.png" alt="Inter Puerto Rico Logo" fill className="object-contain" />
             </div>
           </div>
-          <p>© 2024 Inter Puerto Rico Futsal. Todos los derechos reservados.</p>
+          <p>© 2025 Inter Puerto Rico Futsal. Todos los derechos reservados.</p>
           <p className="mt-2 text-sm text-gray-400">
-            Organización sin fines de lucro dedicada al desarrollo deportivo de jóvenes
           </p>
         </div>
       </footer>
